@@ -1,2 +1,0 @@
-# Pandas-homwork
-Pandas homework
